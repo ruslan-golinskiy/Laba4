@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rus OOP 4.1", "Rus OOP 4.1\Rus OOP 4.1.csproj", "{804EB246-908A-4255-89F6-39007404A622}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{0CC238F7-DFDC-4545-ABA7-AB3C227E0C02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{804EB246-908A-4255-89F6-39007404A622}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{804EB246-908A-4255-89F6-39007404A622}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{804EB246-908A-4255-89F6-39007404A622}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{804EB246-908A-4255-89F6-39007404A622}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CC238F7-DFDC-4545-ABA7-AB3C227E0C02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CC238F7-DFDC-4545-ABA7-AB3C227E0C02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CC238F7-DFDC-4545-ABA7-AB3C227E0C02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CC238F7-DFDC-4545-ABA7-AB3C227E0C02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2F7BFED-3EA2-4EFC-B796-B4D1A93BFBDD}
+	EndGlobalSection
+EndGlobal
